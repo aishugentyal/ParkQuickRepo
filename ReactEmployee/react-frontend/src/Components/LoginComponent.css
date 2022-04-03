@@ -1,0 +1,10 @@
+.login_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.login_form{
+    width: 300px;
+}
